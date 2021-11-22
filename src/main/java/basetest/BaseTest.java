@@ -11,7 +11,7 @@ public class BaseTest {
     public static void setup() {
         Configuration.baseUrl = "http://0.0.0.0:9999";
         Configuration.browserSize = "1600x900";
-        Configuration.holdBrowserOpen = true;
+//        Configuration.holdBrowserOpen = true;
 //        Configuration.headless = true;
     }
 }
